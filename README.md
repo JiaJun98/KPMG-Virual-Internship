@@ -33,7 +33,7 @@ In this task, Sprocket Central Pty Ltd has given us a new list of 1000 potential
 
 Gathering the insights is divided into 3 steps,
 
-   # i. Feature Engineering
+   ### i. Feature Engineering
 -I used the library "featuretools" to generate parent-child relationships for the column "customer id" in "CustomerDemographic" spreadsheet as the "parent" and the column "customer id" in "Transactions" spreadsheet as the "child".
        
  -Using "featuretools" library, I was able to see the types of feature-aggregation and transformative primitives
