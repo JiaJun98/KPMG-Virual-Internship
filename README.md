@@ -38,10 +38,10 @@ Gathering the insights is divided into 3 steps,
        
  -Using "featuretools" library, I was able to see the types of feature-aggregation and transformative primitives
        
-  Aggrevate Primitives
- ![Aggrevate Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/aggregate_primitive.PNG)
+    Aggrevate Primitives
+  ![Aggrevate Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/aggregate_primitive.PNG)
  
-  Transformative Primitives
+    Transformative Primitives
   ![Transformative Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/transformative_primitive.PNG)
    
        
