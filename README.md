@@ -76,6 +76,7 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
    Using "Tensorflow" and "Keras" library, I used the dataframe from the feature engineering previously generated as the training set.
    The test set given by the client, shown in the below screenshot, will act as the test set.
    
+   #### Test Set 
    ![Test Set](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Test_set.PNG)
 
 
