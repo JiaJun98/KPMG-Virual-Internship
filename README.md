@@ -10,6 +10,20 @@ In the spreadsheet provided, there are 3 datasets:
  * Customer Demographic 
  * Customer Addresses
  * Transactions data in the past 3 months
+ 
+### i. 
+Upon seeing the data, I did some prelimary data exploration and conducted some data cleaning.
+
+### ii. 
+For Customer Demographics, I removed missing, mislabelled, the column "default" and unmatcheed datasets.
+
+### iii. 
+For Transactions, I also removed missing, mislabelled and data in the column "product_id" as the value of "0" is mislabelled. I have converted all incorrect data types from datetime to strings
+
+
+
+
+ 
     
 
 ## 2. Data Insights 
