@@ -13,7 +13,7 @@ In the spreadsheet provided, there are 3 datasets:
  
 Upon viewing the spreadsheet, I did some prelimary data exploration and conducted some data cleaning.
 
-i. For Customer Demographics, I removed missing, mislabelled, the column "default" and unmatcheed datasets.
+i. For Customer Demographics, I removed missing, mislabelled, the column "default" and unmatched datasets.
    
    ![Customer Demographics](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%201/Task1_Pic1.PNG)
    
