@@ -53,7 +53,18 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
    ![Feature Engineering 3](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(3).PNG)
    ![Feature Engineering 4](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(4).PNG)
    
-    
+  After forming the dataframe using feature engineering, I cleaned it by:
+
+  1) Remove all N_MOST_COMMON[1] & N_MOST_COMMON[1]
+
+  2) For Column Mean and above
+
+  2i) Numeric column- Fill in 0
+
+  2ii) Caterorical- Fill in "U"
+
+  3) Double check if The original column follows the same rule
+  
      
 
 
