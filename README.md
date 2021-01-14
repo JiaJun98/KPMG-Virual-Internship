@@ -61,8 +61,12 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
 
    * Numeric column- Fill in 0
    * Caterorical- Fill in "U"
-
-  3) Double check if The original column follows the same rule
+   
+   *First 6 rows of the edited dataframe
+   ![Feature Engineering Final 1](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(1).PNG)
+   ![Feature Engineering Final 2](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(2).PNG)
+   ![Feature Engineering Final 3](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(3).PNG)
+   ![Feature Engineering Final 4](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(4).PNG)
   
      
 
