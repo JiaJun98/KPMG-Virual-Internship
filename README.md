@@ -31,8 +31,10 @@ Upon viewing the spreadsheet, I did some prelimary data exploration and conducte
 
 In this task, Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes but with no prior transaction history with the organisation. The marketing team believes that the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
 
+Gathering the insights is divided into 3 steps,
 
-
+    i. Feature Engineering
+       I used the library "featuretools"
 
 
 
