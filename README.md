@@ -16,7 +16,7 @@ Upon viewing the spreadsheet, I did some prelimary data exploration and conducte
     i. For Customer Demographics, I removed missing, mislabelled, the column "default" and unmatcheed datasets.
     
    
-   (![Data Cleaning for Customer Demographics](https://github.com/[JiaJun98]/[KPMG-Virual-Internship]/blob/[Task1]/Task 1 Pic 1.PNG)
+   ![mislabeled categories](https://github.com/JiaJun98/KPMG-Virual-Internship/tree/main/Task1/Task 1 Pic 1.PNG)
    
     ii. For Transactions, I also removed missing, mislabelled and data in the column "product_id" as the value of "0" is mislabelled. I have converted all incorrect data types from datetime to strings
     
