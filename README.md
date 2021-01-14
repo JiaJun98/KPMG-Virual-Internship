@@ -41,8 +41,8 @@ Gathering the insights is divided into 3 steps,
   Aggrevate Primitives
  ![Aggrevate Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/aggregate_primitive.PNG)
  
- Transformative Primitives
- ![Transformative Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/transformative_primitive.PNG)
+  Transformative Primitives
+  ![Transformative Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/transformative_primitive.PNG)
    
        
  -I then used the features "mean", "max", "min", "std", "skew","count","n_most_common" as the aggregation primitives and "time_since_previous" as the transformative primitives.
