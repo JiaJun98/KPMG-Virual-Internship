@@ -13,15 +13,15 @@ In the spreadsheet provided, there are 3 datasets:
  
 Upon viewing the spreadsheet, I did some prelimary data exploration and conducted some data cleaning.
 
-    i. For Customer Demographics, I removed missing, mislabelled, the column "default" and unmatcheed datasets.
+   i. For Customer Demographics, I removed missing, mislabelled, the column "default" and unmatcheed datasets.
    
    ![Customer Demographics](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%201/Task1_Pic1.PNG)
    
-    ii. For Transactions, I also removed missing, mislabelled and data in the column "product_id" as the value of "0" is mislabelled. I have converted all incorrect data types from datetime to strings
+   ii. For Transactions, I also removed missing, mislabelled and data in the column "product_id" as the value of "0" is mislabelled. I have converted all incorrect data types from datetime to strings
     
    ![Transactions](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%201/Task1_Pic2.PNG)
     
-    iii. For NewCustomerList, I also removed missing, mislabeled, duplicated data. Afterwards, I replaced empty headers with "unknown headers 1-5" as no data provided      for the column header. I then converted all incorrect data types from datetime to strings. 
+   iii. For NewCustomerList, I also removed missing, mislabeled, duplicated data. Afterwards, I replaced empty headers with "unknown headers 1-5" as no data provided      for the column header. I then converted all incorrect data types from datetime to strings. 
 
    ![NewCustomerList](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%201/Task1_Pic3.PNG)
 
