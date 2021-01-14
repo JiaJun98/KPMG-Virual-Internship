@@ -11,12 +11,13 @@ In the spreadsheet provided, there are 3 datasets:
  * Customer Addresses
  * Transactions data in the past 3 months
  
-    i. Upon seeing the data, I did some prelimary data exploration and conducted some data cleaning.
+Upon viewing the spreadsheet, I did some prelimary data exploration and conducted some data cleaning.
 
-    ii. For Customer Demographics, I removed missing, mislabelled, the column "default" and unmatcheed datasets.
+    i. For Customer Demographics, I removed missing, mislabelled, the column "default" and unmatcheed datasets.
 
-    iii. For Transactions, I also removed missing, mislabelled and data in the column "product_id" as the value of "0" is mislabelled. I have converted all incorrect         data types from datetime to strings
-
+    ii. For Transactions, I also removed missing, mislabelled and data in the column "product_id" as the value of "0" is mislabelled. I have converted all incorrect data types from datetime to strings
+    
+    iii. For NewCustomerList, I also removed missing, mislabeled, duplicated data. Afterwards, I replaced empty headers with "unknown headers 1-5" as no data provided      for the column header. I then converted all incorrect data types from datetime to strings. 
 
 
 
