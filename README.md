@@ -66,10 +66,10 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
    
    #### Screenshots of cleaned  dataframe after feature engineering
    *First 6 rows of the edited dataframe
-   ![Feature Engineering Final 1](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(1).PNG)
-   ![Feature Engineering Final 2](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(2).PNG)
-   ![Feature Engineering Final 3](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(3).PNG)
-   ![Feature Engineering Final 4](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(4).PNG)
+   ![Feature Engineering Final 1](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_edited(1).PNG)
+   ![Feature Engineering Final 2](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_edited(2).PNG)
+   ![Feature Engineering Final 3](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_edited(3).PNG)
+   ![Feature Engineering Final 4](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_edited(4).PNG)
   
    ### ii. Model Development and Interpretation
    
