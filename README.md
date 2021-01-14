@@ -38,8 +38,8 @@ Gathering the insights is divided into 3 steps,
        
        -Using "featuretools" library, I was able to see the types of feature-aggregation and transformative primitives
        
-   ![Aggrevate Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/aggregate_primitive.PNG)
-   ![Transformative Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/transformative_primitive.PNG)
+ ![Aggrevate Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/aggregate_primitive.PNG)
+ ![Transformative Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/transformative_primitive.PNG)
    
        
        -I then used the features "mean", "max", "min", "std", "skew","count","n_most_common" as the aggregation primitives and "time_since_previous" as the transformative primitives.
