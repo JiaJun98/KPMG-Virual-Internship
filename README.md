@@ -45,8 +45,9 @@ Using "featuretools" library, I was able to see the types of feature-aggregation
   ![Transformative Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/transformative_primitive.PNG)
    
        
-I then used the features "mean", "max", "min", "std", "skew","count","n_most_common" as the aggregation primitives and "time_since_previous" as the transformative primitives and form the following dataframe.
+Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_most_common" as the aggregation primitives and "time_since_previous" as the transformative primitives and form the following dataframe.
   
+   First 6 rows of the dataframe  
    ![Feature Engineering 1](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(1).PNG)
    ![Feature Engineering 2](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(2).PNG)
    ![Feature Engineering 3](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_final(3).PNG)
