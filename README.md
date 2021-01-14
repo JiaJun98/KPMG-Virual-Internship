@@ -7,9 +7,9 @@ All datasets are properties of Forage pte ltd and they reserve the final rights.
 In this task, I act as a junior data analyst in KPMG's Lighthouse and Innvation Team. I have coordinated with Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation. Sprocket Central Pty Ltd requires help for its customer and transactions data.The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy. 
 
 In the spreadsheet provided, there are 3 datasets:
-    *Customer Demographic 
-    *Customer Addresses
-    *Transactions data in the past 3 months
+ * Customer Demographic 
+ * Customer Addresses
+ * Transactions data in the past 3 months
     
 
 ## 2. Data Insights 
