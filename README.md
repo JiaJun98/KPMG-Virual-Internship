@@ -14,7 +14,6 @@ In the spreadsheet provided, there are 3 datasets:
 Upon viewing the spreadsheet, I did some prelimary data exploration and conducted some data cleaning.
 
     i. For Customer Demographics, I removed missing, mislabelled, the column "default" and unmatcheed datasets.
-    
    
    ![Customer Demographics](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%201/Task1_Pic1.PNG)
    
@@ -30,7 +29,13 @@ Upon viewing the spreadsheet, I did some prelimary data exploration and conducte
    
 ## 2. Data Insights 
 
-After cleaning and assessing the quality of the data, I developed a predictive model using “TensorFlow” and “Keras” to predict high-value customers from relationships established between customer demographics and transactions via feature engineering
+In this task, Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes but with no prior transaction history with the organisation. The marketing team believes that the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
+
+
+
+
+
+
 
 ## 3.Data Insights and Presentations
 
