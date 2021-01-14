@@ -14,8 +14,9 @@ In the spreadsheet provided, there are 3 datasets:
 Upon viewing the spreadsheet, I did some prelimary data exploration and conducted some data cleaning.
 
     i. For Customer Demographics, I removed missing, mislabelled, the column "default" and unmatcheed datasets.
+    
    
-   (https://github.com/JiaJun98/Python-Projects/blob/master/Data_Cleaning_car_type1.PNG)
+   (![Data Cleaning for Customer Demographics](https://github.com/[JiaJun98]/[KPMG-Virual-Internship]/blob/[Task1]/Task 1 Pic 1.PNG?raw=true)
    
     ii. For Transactions, I also removed missing, mislabelled and data in the column "product_id" as the value of "0" is mislabelled. I have converted all incorrect data types from datetime to strings
     
