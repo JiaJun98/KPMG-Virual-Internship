@@ -59,9 +59,8 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
 
   2) For Column Mean and above
 
-    2i) Numeric column- Fill in 0
-
-    2ii) Caterorical- Fill in "U"
+   * Numeric column- Fill in 0
+   * Caterorical- Fill in "U"
 
   3) Double check if The original column follows the same rule
   
