@@ -90,7 +90,10 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
       
  ![Sequential Model](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Sequential_Model.PNG)
  
+   #### Splitting features from labels
+   I seperated the target value or "label" from the features. This label is the value that you will train the model to predict.
    
+   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Split_features.PNG)
 
 
 ## 3.Data Insights and Presentations
