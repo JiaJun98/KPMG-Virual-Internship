@@ -103,11 +103,19 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
    ### Documentation of training
    Using tensorflow, I used the plotter to show the mean absolute error (MAE) vs the number of epochs
    
-   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/MAE_EPOCH(2).PNG)
+   ![MAE_MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/MAE_EPOCH(2).PNG)
   
    I then used the plotter to show the mean square error (MSE) vs the number of epochs
-   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/MSE_EPOCH.PNG)
+   ![MSE_MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/MSE_EPOCH.PNG)
   
+   #### Early Stopping
+   I experimented with "keras" early stopping to see if there are any improvements in the predictions.
+   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Early_Stopping(1).PNG)
+   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Early_Stopping(2).PNG)
+   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Early_Stopping(3).PNG)
+   
+   
+   
    
    
 
