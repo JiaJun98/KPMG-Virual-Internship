@@ -140,15 +140,14 @@ This is a screenshot of the column "Gender_aggregate"
 
 In the last task, after performing customer profiling in the dataset, I built an interactive Tableau dashboard highlighting key trends in datasets on customer preferences and propensity to the client and propose growth strategies to improve customer targeting.
 
-I have formed 3 dashboards
+I have formed 3 dashboards, mainly "Social Dashboard", "Economic Dashboard" and "Australia Dashboard"
 
-![Australia Dashboard](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%203/Australia_Dashboard.PNG)
-![Economic Dashboard](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%203/Economic_Dashboard.PNG)
+The social dashboard plots a faceted graph of the columns "Category by Age", "Category by Gender" and "Category by Industry Category" 
 ![Social Dashboard](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%203/Social_Dashboard.PNG)
 
+The economic dashboard plots a faceted graph of the columns "past_3_years_bike_related_purchases" , "wealth_segment", "tenure", "property_valuation".
+![Economic Dashboard](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%203/Economic_Dashboard.PNG)
 
+The last dashboard shows the numerical value of each of the columns "MEAN_Transactions_standard_cost", "MEAN_Transactions_list_price",	"MAX_Transactions_standard_cost", "MAX_Transactions_list_price",	"MIN_Transactions_standard_cost","MIN_Transactions_list_price",	"STD_Transactions_standard_cost",	"STD_Transactions_list_price",	"SKEW_Transactions_standard_cost"	,"SKEW_Transactions_list_price",	"COUNT_Transactions" in the 3 regions of Australia
 
-
-
-
-
+![Australia Dashboard](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%203/Australia_Dashboard.PNG)
