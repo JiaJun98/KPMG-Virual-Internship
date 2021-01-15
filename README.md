@@ -114,8 +114,12 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
    ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Early_Stopping(2).PNG)
    ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Early_Stopping(3).PNG)
    
+   ### iii. Predictions
    
-   
+   After repeating the process of training and testing for the rest of the columns. I have obtained the following dataframe
+   ![Test](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Test(1).PNG)
+   ![Test](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Test(2).PNG)
+   ![Test](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Test(3).PNG)
    
    
 
