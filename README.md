@@ -138,4 +138,17 @@ This is a screenshot of the column "Gender_aggregate"
 
 ## 3.Data Insights and Presentations
 
-In the last task, after performing customer profiling in the dataset, I built an interactive Tableau dashboard highlighting key trends in datasets on customer preferences and propensity to the client and propose growth strategies to improve customer targeting
+In the last task, after performing customer profiling in the dataset, I built an interactive Tableau dashboard highlighting key trends in datasets on customer preferences and propensity to the client and propose growth strategies to improve customer targeting.
+
+I have formed 3 dashboards
+
+![Australia Dashboard](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%203/Australia_Dashboard.PNG)
+![Economic Dashboard](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%203/Economic_Dashboard.PNG)
+![Social Dashboard](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%203/Social_Dashboard.PNG)
+
+
+
+
+
+
+
