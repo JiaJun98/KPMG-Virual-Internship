@@ -126,6 +126,9 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
    I gathered all unique values and seperate them by interval ranges using groupby dataframe.This is an example for the column "past_3_years_bike_related_purchase
    ![Groupby](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Group_by.PNG)
    
+   I then groupy each of the predicted columns based on their "sum" and "mean" and obtained this final dataframe as shown
+   ![Final_Groupby](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Final(1).PNG)
+   ![Final_Groupby](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Final(2).PNG)
    
 
 
