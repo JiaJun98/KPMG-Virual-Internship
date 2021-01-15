@@ -88,7 +88,7 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
       * "tenure"
       * "property_valuation"
       
- ![Sequential Model](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task2/Sequential/Model.PNG)
+ ![Sequential Model](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task2/Sequential_Model.PNG)
  
    
 
