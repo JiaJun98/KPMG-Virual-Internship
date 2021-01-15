@@ -102,10 +102,10 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
    
    ### Documentation of training
    Using tensorflow, I used the plotter to show the mean absolute error (MAE) vs the number of epochs
-   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/MSE_EPOCH.PNG)
+   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/MAE_EPOCH(2).PNG)
   
    I then used the plotter to show the mean square error (MSE) vs the number of epochs
-   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/MAE_EPOCH.PNG)
+   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/MSE_EPOCH.PNG)
   
    
    
