@@ -36,7 +36,7 @@ Gathering the insights is divided into 3 steps,
    ### i. Feature Engineering
 I used the library "featuretools" to generate parent-child relationships for the column "customer id" in "CustomerDemographic" spreadsheet as the "parent" and the column "customer id" in "Transactions" spreadsheet as the "child".
        
-Using "featuretools" library, I was able to see the types of feature-aggregation and transformative primitives
+Using "featuretools" library, I was able to see the types of feature; aggregation and transformative primitives
        
     Aggrevate Primitives
   ![Aggrevate Primitives](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/aggregate_primitive.PNG)
@@ -71,7 +71,7 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
    ![Feature Engineering Final 3](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_edited(3).PNG)
    ![Feature Engineering Final 4](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Ft_edited(4).PNG)
   
-   ### ii. Model Development and Interpretation
+   ### ii. Normal
    
    Using "Tensorflow" and "Keras" library, I used the dataframe from the feature engineering previously generated as the training set.
    The test set given by the client, shown in the below screenshot, will act as the test set.
