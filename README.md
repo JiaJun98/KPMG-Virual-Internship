@@ -96,6 +96,19 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
    In the screenshot below, I have used the training column "MEAN_Transactions_standard_cost" for the prediction of the Sequential Model
    
    ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Split_features.PNG)
+   
+   ### Training
+   I proceeded to use EPOCH = 1000 to train the model.
+   
+   ### Documentation of training
+   Using tensorflow, I used the plotter to show the mean absolute error (MAE) vs the number of epochs
+   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task 2/MSE_EPOCH.PNG)
+  
+   I then used the plotter to show the mean square error (MSE) vs the number of epochs
+   ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task 2/MAE_EPOCH.PNG)
+  
+   
+   
 
 
 ## 3.Data Insights and Presentations
