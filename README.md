@@ -92,7 +92,7 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
  
    #### Splitting features from labels
    I seperated the target value or "label" from the features. This label is the value that you will train the model to predict.
-   In the screenshot below, I have used the training column "MEAN_Transactions_standard_cost" for the prediction of the Sequential Model
+   In the screenshot below, I have used the training column "MEAN_Transactions_standard_cost" for the prediction of the Sequential Model<br/>
    
    ![MEAN_Transaction_standard_cost](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Split_features.PNG)
 
