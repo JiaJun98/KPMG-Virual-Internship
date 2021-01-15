@@ -133,7 +133,7 @@ Afterwards I used the features "mean", "max", "min", "std", "skew","count","n_mo
 Finally, I repeated the process for the different customer demographics for the columns "Gender_aggregate", "job_industry_category_aggregate", "wealth_segment_aggregate", "state_aggregate", "3_years_bike_purchases_agg", "Age_agg", "tenure_agg", "property_valuation_agg" and exported the dataframes as excel sheet
 
 This is a screenshot of the column "Gender_aggregate"
-![Final_Groupby](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Final 20excel 20submission.PNG)
+![Final_Groupby](https://github.com/JiaJun98/KPMG-Virual-Internship/blob/main/Task%202/Final_excel_submission.PNG)
 
 
 ## 3.Data Insights and Presentations
